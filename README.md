@@ -1,7 +1,7 @@
 # openaim
 Another one of my computer vision side projects
 
-TODO: add a requirement file
+TODO: add a requirement file, basically OpenCV, GDK, Numpy, Matplotlib, pyautogui
 
 
 
