@@ -33,29 +33,6 @@ for (i, (x, y, w, h)) in enumerate(rectangles):
 #cv2.destroyAllWindows()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #mat1 = np.arange(nx, dtype ='uint8')
 #print type(mat1)
 
